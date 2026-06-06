@@ -25,6 +25,8 @@ University of Delhi
 * Power Dashboard
 
 ## 📫 Connect
+### Connect with Me
 
-📧
-💼https://www.linkedin.com/jobs/
+💼 LinkedIn: https://www.linkedin.com/in/sachi-sisondiya-8b8212406
+
+📧 Email: [sachisisondiya@gmail.com](mailto:sachisisondiya@gmail.com)
