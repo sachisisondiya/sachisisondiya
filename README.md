@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sachin 👋
 
-<!--
-**sachisisondiya/sachisisondiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in MIS reporting, dashboard creation, and data analysis. I enjoy working with data to identify trends, solve business problems, and support data-driven decision-making.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor of Arts (B.A Programe)
+University of Delhi
+
+## 💻 Skills
+
+* SQL
+* Python
+* Power BI
+* Advanced Excel
+* Data Analysis
+* Data Visualization
+* Dashboard Development
+* MIS Reporting
+
+## 📊 Projects
+
+* E-Commerce Sales Analysis
+* Diwali Sales Analysis
+* Power Dashboard
+
+## 📫 Connect
+
+📧
+💼https://www.linkedin.com/jobs/
