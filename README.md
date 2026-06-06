@@ -27,6 +27,6 @@ University of Delhi
 ## 📫 Connect
 ### Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/sachi-sisondiya-8b8212406
+[Sachi Sisondiya](https://www.linkedin.com/in/sachi-sisondiya-8b8212406)
 
-📧 Email: [sachisisondiya@gmail.com](mailto:sachisisondiya@gmail.com)
+[Sachi Sisondiya](mailto:sachisisondiya@gmail.com)
